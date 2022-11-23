@@ -1,0 +1,7 @@
+#expenseBody {
+  background: url("./piggy.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 900px;
+  min-width: 1024px;
+}
